@@ -1,10 +1,12 @@
 # Template Studio
 
-Improve the File > New experience and accelerate the creation of apps in Visual Studio 2022.
+![Works with Visual Studio 2022](https://img.shields.io/static/v1.svg?label=VS&message=2022&color=5F2E96)
+
+Improve the File > New experience and accelerate the creation of apps in **Visual Studio 2022**.
 
 ## Template Studio for UWP - [preview](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.TemplateStudioForUWP)
 
-Bring the [Windows Template Studio](https://aka.ms/wts) experience for building Universal Windows Platform (UWP) apps to Visual Studio 2022.  
+Bringing the [Windows Template Studio](https://aka.ms/wts) experience for building Universal Windows Platform (UWP) apps to **Visual Studio 2022**.  
 Currently in preview while final bugs are addressed.
 
 ![First page of the app generation wizard](./assets/wizard-step1-light.png)
