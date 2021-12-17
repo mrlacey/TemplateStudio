@@ -1,6 +1,6 @@
 # Template Studio
 
-![Works with Visual Studio 2022](https://img.shields.io/static/v1.svg?label=VS&message=2022&color=5F2E96)
+![Works with Visual Studio 2022](https://img.shields.io/static/v1.svg?label=VS&message=2022&color=A853C7)
 
 Improve the File > New experience and accelerate the creation of apps in **Visual Studio 2022**.
 
