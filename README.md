@@ -1,4 +1,4 @@
-# Template Studio
+# Matt's Template Studio
 
 ![Works with Visual Studio 2022](https://img.shields.io/static/v1.svg?label=VS&message=2022&color=A853C7)
 ![for UWP](https://img.shields.io/static/v1.svg?label=for&message=UWP&color=00BCF2)
@@ -6,6 +6,8 @@
 ![for WinUI](https://img.shields.io/static/v1.svg?label=for&message=WinUI&color=32863B)
 
 Improve the File > New experience and accelerate the creation of apps in **Visual Studio 2022**.
+
+My personal, early previews for what's coming to [Windows Template Studio](https://aka.ms/wts).
 
 ## Matt's Template Studio for WinUI (C#) - [preview](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.TemplateStudioForWinUI)
 
