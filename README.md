@@ -3,10 +3,22 @@
 ![Works with Visual Studio 2022](https://img.shields.io/static/v1.svg?label=VS&message=2022&color=A853C7)
 ![for UWP](https://img.shields.io/static/v1.svg?label=for&message=UWP&color=00BCF2)
 ![for WPF](https://img.shields.io/static/v1.svg?label=for&message=WPF&color=6949A4)
+![for WinUI](https://img.shields.io/static/v1.svg?label=for&message=WinUI&color=32863B)
 
 Improve the File > New experience and accelerate the creation of apps in **Visual Studio 2022**.
 
-## Template Studio for UWP - [preview](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.TemplateStudioForUWP)
+## Matt's Template Studio for WinUI (C#) - [preview](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.TemplateStudioForWinUI)
+
+Bringing the [Windows Template Studio](https://aka.ms/wts) experience for building apps to WinUI and **Visual Studio 2022**.  
+Currently in preview while final bugs are addressed.
+
+![First page of the app generation wizard](./assets/winui-wizard-step1-light.png)
+
+This is an early preview and the templates will be updated shortly.
+
+Please [try it out](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.TemplateStudioForWinUI) and [create issues for any bugs, questions, or suggestions](https://github.com/mrlacey/TemplateStudio/issues/new).
+
+## Matt's Template Studio for UWP - [preview](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.TemplateStudioForUWP)
 
 Bringing the [Windows Template Studio](https://aka.ms/wts) experience for building Universal Windows Platform (UWP) apps to **Visual Studio 2022**.  
 Currently in preview while final bugs are addressed.
@@ -21,7 +33,7 @@ Differences with the functionality in Windows Template Studio:
 
 Please [try it out](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.TemplateStudioForUWP) and [create issues for any bugs, questions, or suggestions](https://github.com/mrlacey/TemplateStudio/issues/new).
 
-## Template Studio for WPF - [preview](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.TemplateStudioForWPF)
+## Matt's Template Studio for WPF - [preview](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.TemplateStudioForWPF)
 
 Bring the Windows Template Studio experience for building WPF apps to **Visual Studio 2022**.  
 Currently in preview while final bugs are addressed.
@@ -34,12 +46,6 @@ Differences with the functionality in Windows Template Studio:
 - English only.
 
 Please [try it out](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.TemplateStudioForWPF) and [create issues for any bugs, questions, or suggestions](https://github.com/mrlacey/TemplateStudio/issues/new).
-
-
-## Template Studio for WinUI
-
-Hopefully coming soon.  
-More details will follow.
 
 ## Template Studio for ???
 

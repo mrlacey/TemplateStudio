@@ -2,12 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
-## Template Studio for UWP
+## Matt's Template Studio for WinUI
+
+### 0.5 - (2022-03-11)
+
+- Initial preview release
+
+## Matt's Template Studio for UWP
+
+### 0.5 - (2022-03-11)
+
+- Bug fixes and perf improvements
+- Renamed extension
 
 ### 0.4 - (2022-01-06)
 
 - Support side-by-side install with **Template Studio for WPF**
-- Fixed occassional error when adding multiple projects to the same solution
+- Fixed occasional error when adding multiple projects to the same solution
 
 ### 0.3 - (2021-12-22)
 
@@ -17,7 +28,7 @@ All notable changes to this project will be documented in this file.
 
 ### 0.2 - (2021-12-15)
 
-- Add Visal Basic templates
+- Add Visual Basic templates
 - Enable adding to previously generated projects (AKA "Right-Click>Add")
 - Add missing licenses
 
@@ -25,7 +36,12 @@ All notable changes to this project will be documented in this file.
 
 - Initial preview release
 
-## Template Studio for WPF
+## Matt's Template Studio for WPF
+
+### 0.5 - (2022-03-11)
+
+- Bug fixes and perf improvements
+- Renamed extension
 
 ### 0.4 - (2022-01-06)
 
