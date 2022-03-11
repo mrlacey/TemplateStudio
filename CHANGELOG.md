@@ -2,13 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
-## Matt's Template Studio for WinUI
+## Template Studio for WinUI
 
 ### 0.5 - (2022-03-11)
 
 - Initial preview release
 
-## Matt's Template Studio for UWP
+## Template Studio for UWP
 
 ### 0.5 - (2022-03-11)
 
@@ -36,7 +36,7 @@ All notable changes to this project will be documented in this file.
 
 - Initial preview release
 
-## Matt's Template Studio for WPF
+## Template Studio for WPF
 
 ### 0.5 - (2022-03-11)
 
