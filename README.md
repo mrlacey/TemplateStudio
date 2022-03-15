@@ -7,7 +7,7 @@
 
 Improve the File > New experience and accelerate the creation of apps in **Visual Studio 2022**.
 
-My personal, early previews for what's coming to [Windows Template Studio](https://aka.ms/wts).
+My personal, early previews for what's coming to [[Windows] Template Studio](https://aka.ms/wts).
 
 ## Matt's Template Studio for WinUI (C#) - [preview](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.TemplateStudioForWinUI)
 
