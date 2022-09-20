@@ -2,13 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
-## Template Studio for WinUI
-
-### 0.5 - (2022-03-11)
-
-- Initial preview release
-
 ## Template Studio for UWP
+
+### 5.9 - (2022-09-19)
+
+- Added page with WebView2 (as old WebView control is now deprecated)
+
+### 5.8 - (2022-09-02)
+
+- Updated package references
+- Updated version number to reflect leaving preview
 
 ### 0.5 - (2022-03-11)
 
@@ -33,6 +36,12 @@ All notable changes to this project will be documented in this file.
 - Add missing licenses
 
 ### 0.1 - (2021-12-10)
+
+- Initial preview release
+
+## Template Studio for WinUI
+
+### 0.5 - (2022-03-11)
 
 - Initial preview release
 
