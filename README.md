@@ -27,9 +27,9 @@ Differences with the functionality in Windows Template Studio:
 
 Please [try it out](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.TemplateStudioForUWP) and [create issues for any bugs, questions, or suggestions](https://github.com/mrlacey/TemplateStudio/issues/new).
 
-## Template Studio for.NET MAUI - coming soon
+## MAUI App Accelerator (AKA Template Studio for.NET MAUI)
 
-More details will follow......
+Available from the [marketplace](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.MauiAppAccelerator)
 
 ## Matt's Template Studio for WinUI (C#) - [preview](https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.TemplateStudioForWinUI)
 
