@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## Template Studio for UWP
 
+### 5.9.1 - (2022-12-09)
+
+- Support Visual Studio on ARM
+
 ### 5.9 - (2022-09-19)
 
 - Added page with WebView2 (as old WebView control is now deprecated)
