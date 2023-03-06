@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 ## Template Studio for UWP
 
+### 5.10 (2023-03-06)
+
+- Update NuGet dependencies in generated apps 
+- Improve wizard accessibility
+
 ### 5.9.1 - (2022-12-09)
 
 - Support Visual Studio on ARM
