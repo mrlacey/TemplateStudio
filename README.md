@@ -1,3 +1,10 @@
+> **Warning**  
+> This repo should be considered archived. I created it when Windows Template Studio was no longer maintained so I could keep the functionality available.  
+> As a result of creating this repo and porting the code to work with VS2022 someone from Microsoft restarted the original project (my code) as [Template Studio](https://github.com/microsoft/TemplateStudio) (They dropped "Windows" from the name.)  
+> I created a [separate project to provide .NET MAUI support](https://github.com/mrlacey/MauiAppAccelerator).
+
+---
+
 # Matt's Template Studio
 
 ![Works with Visual Studio 2022](https://img.shields.io/static/v1.svg?label=VS&message=2022&color=A853C7)
